@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace NTier.Core.Entities
-{
+{ 
     public class CoreEntity : ICoreEntity
     {
         public Guid Id { get; set; }
